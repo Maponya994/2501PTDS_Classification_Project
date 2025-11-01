@@ -31,6 +31,8 @@ We saved the best model and the TF-IDF vectorizer for future use in a Streamlit 
 2. Run the cells from top to bottom.  
 3. To test the saved model, load the `.pkl` files and predict new articles.
 
+
+streamlit link : https://2501ptdsclassificationproject-hcgwkko6a7lwder3tcg2ak.streamlit.app
 ---
 
 **Author:** Maponya Masitenyane  
